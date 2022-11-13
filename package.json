@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koddsson/web-dev.git"
+    "url": "git+https://github.com/amaapp/betme.git"
   },
   "keywords": [],
-  "author": "Kristján Oddsson <hi@koddsson.com>",
+  "author": "Kristján Oddsson <hi@adball.online>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/koddsson/web-dev/issues"
+    "url": "https://github.com/amaapp333/betme/issues"
   },
   "prettier": "@github/prettier-config",
-  "homepage": "https://github.com/koddsson/web-dev#readme",
+  "homepage": "https://github.com/amaapp333/betme#readme",
   "devDependencies": {
     "@github/prettier-config": "^0.0.4",
     "@open-wc/testing": "^3.1.6",
